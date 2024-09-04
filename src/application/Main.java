@@ -8,6 +8,8 @@ import view.SignUp;
 import javafx.scene.Scene;
 import javafx.scene.layout.BorderPane;
 
+// testing 123
+// hello world
 
 public class Main extends Application {
 	public AccountManagement managementSys = new AccountManagement();
